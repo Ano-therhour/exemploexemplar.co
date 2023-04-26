@@ -8,4 +8,10 @@ top: 0px;
 background: linear-gradient(180deg, #EB1E74 0%, rgba(228, 39, 175, 0.46) 99.48%);
 mix-blend-mode: normal;
     }
-    
+    .img1{
+        position: absolute;
+width: 212px;
+height: 316px;
+left: 1228px;
+top: 0px;
+    }
