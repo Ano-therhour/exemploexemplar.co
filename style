@@ -1,0 +1,11 @@
+.cabec{
+    position: absolute;
+width: 1228px;
+height: 166px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #EB1E74 0%, rgba(228, 39, 175, 0.46) 99.48%);
+mix-blend-mode: normal;
+    }
+    
